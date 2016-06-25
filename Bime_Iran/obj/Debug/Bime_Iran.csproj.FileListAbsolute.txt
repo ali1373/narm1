@@ -1,0 +1,12 @@
+c:\users\se7en\documents\visual studio 2015\Projects\Bime_Iran\Bime_Iran\bin\Debug\Bime_Iran.exe.config
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\bin\Debug\Bime_Iran.exe
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\bin\Debug\Bime_Iran.pdb
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.csprojResolveAssemblyReference.cache
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.AdminsPage.resources
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.Form1.resources
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.Properties.Resources.resources
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.csproj.GenerateResource.Cache
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.exe
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.pdb
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.ManagerForm.resources
+C:\Users\SE7EN\Documents\Visual Studio 2015\Projects\Bime_Iran\Bime_Iran\obj\Debug\Bime_Iran.UserForm.resources
